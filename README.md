@@ -14,7 +14,7 @@ which is understood by [PLY](http://www.dabeaz.com/ply/), a widely used Parser g
 
 [![Build Status](https://travis-ci.org/salimfadhley/mt940.svg?branch=master)](https://travis-ci.org/salimfadhley/mt940)
 [![Code Health](https://landscape.io/github/salimfadhley/mt940/master/landscape.svg?style=flat)](https://landscape.io/github/salimfadhley/mt940/master)
-[![Wheel Status](https://pypip.in/wheel/mt940parser/badge.svg)](https://pypi.python.org/pypi/mt940parser/)
+[![Wheel Status](https://img.shields.io/pypi/wheel/mt940parser.svg)](https://pypi.python.org/pypi/mt940parser/)
 [![Requirements Status](https://requires.io/github/salimfadhley/mt940/requirements.svg?branch=master)](https://requires.io/github/salimfadhley/mt940/requirements/?branch=master)
 
 This project is not under active development - it was originally written as a technical demo of how financial data can be
